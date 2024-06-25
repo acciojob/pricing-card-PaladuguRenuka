@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+.card{
+	width: 200px;
+	padding: 50px;
+	margin: 100px;
+	background-color: #EFEFEF;
+	box-shadow: 2px 5px 5px 3px #C4C4C4;
+	text-align: center;
+}
+img{
+	width: 200px;
+}
+button{
+	padding: 10px;
+	margin: 10px;
+	background-color: #EE5C4B;
+	color: white;
+	border-radius: 5px;
+	border-color: #EFEFEF;
+}
+h1,p{
+	padding: 0px;
+	margin: 0px;
+}
